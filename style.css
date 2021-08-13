@@ -89,6 +89,15 @@ img{
   bottom: 2rem;
   right: 2rem;
 }
+.attribution{
+  padding:20px;
+  width:80%;
+  margin: 40px auto;
+}
+.attribution a{
+  font-size:20px;
+  color:hsla(208, 100%, 33%, 1);
+}
 @media only screen and (max-width:1000px){
  section{
    display: block;
